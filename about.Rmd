@@ -1,0 +1,5 @@
+---
+title: "About R-Spatial"
+---
+
+R-Spatial community is created with the aim of bringing developers, experts and end users of R + GIS together. This is a work in progress and you can expect to find lots of content here as 2017 progresses. Stay tuned!
