@@ -1,5 +1,5 @@
 name: "r-spatial"
-output_dir: "docs"
+output_dir: "."
 output:
   html_document:
     theme: cosmo
